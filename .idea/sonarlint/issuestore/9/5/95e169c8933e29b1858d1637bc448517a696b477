@@ -1,0 +1,9 @@
+
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö8šÎªÂÆ.
+hsquid:UselessImportCheck"8Remove this unused import 'cn.hutool.core.lang.Console'.(èÂ¸†üÿÿÿÿ8šÎªÂÆ.
+Xsquid:S1854"":Remove this useless assignment to local variable "format".(ŞÓÙ¯8šÎªÂÆ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á”“€8šÎªÂÆ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôˆêı8šÎªÂÆ.
+Isquid:S1481""+Remove this unused "format" local variable.(ŞÓÙ¯8šÎªÂÆ.

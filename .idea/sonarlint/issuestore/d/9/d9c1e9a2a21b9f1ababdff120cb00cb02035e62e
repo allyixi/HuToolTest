@@ -1,0 +1,6 @@
+
+Xsquid:S1854"7Remove this useless assignment to local variable "str".(Ö»‰ÿøÿÿÿÿ8ãàĞÄ.
+Isquid:S1481"(Remove this unused "str" local variable.(Ö»‰ÿøÿÿÿÿ8ãàĞÄ.
+Jsquid:S1481")Remove this unused "str2" local variable.(™®ÃÆúÿÿÿÿ8Ì›ŸĞÄ.
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+Ysquid:S1854"8Remove this useless assignment to local variable "str2".(™®ÃÆúÿÿÿÿ8Ì›ŸĞÄ.

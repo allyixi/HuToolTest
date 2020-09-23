@@ -1,0 +1,4 @@
+
+Gsquid:S1481")Remove this unused "map2" local variable.(¹õú8‚ê¡Å.
+Vsquid:S1854"8Remove this useless assignment to local variable "map2".(¹õú8‚ê¡Å.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğì©¸üÿÿÿÿ

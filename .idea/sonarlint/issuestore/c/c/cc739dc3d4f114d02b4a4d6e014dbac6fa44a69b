@@ -1,0 +1,12 @@
+
+Isquid:S1481"+Remove this unused "result" local variable.(„ñÿ›8×šÊ Æ.
+Ksquid:S1481"(Remove this unused "ip2" local variable.(î€©Éşÿÿÿÿ8×šÊ Æ.
+Ksquid:S1481"(Remove this unused "ip3" local variable.(«éœ”úÿÿÿÿ8×šÊ Æ.
+^squid:S1854 ";Remove this useless assignment to local variable "result2".(Úàİ†şÿÿÿÿ8×šÊ Æ.
+Zsquid:S1854"7Remove this useless assignment to local variable "ip2".(î€©Éşÿÿÿÿ8×šÊ Æ.
+Xsquid:S1854":Remove this useless assignment to local variable "result".(„ñÿ›8×šÊ Æ.
+Osquid:S1481"",Remove this unused "result3" local variable.(–“«úÿÿÿÿ8×šÊ Æ.
+Osquid:S1481 ",Remove this unused "result2" local variable.(Úàİ†şÿÿÿÿ8×šÊ Æ.
+^squid:S1854"";Remove this useless assignment to local variable "result3".(–“«úÿÿÿÿ8×šÊ Æ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+Zsquid:S1854"7Remove this useless assignment to local variable "ip3".(«éœ”úÿÿÿÿ8×šÊ Æ.

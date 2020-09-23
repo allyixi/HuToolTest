@@ -1,0 +1,12 @@
+
+Wsquid:S1854"6Remove this useless assignment to local variable "id".(†üôûüÿÿÿÿ8ÎˆæúÄ.
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+Isquid:S1481"(Remove this unused "id2" local variable.(ß¢Üñùÿÿÿÿ8øüŞúÄ.
+Jsquid:S1481")Remove this unused "uuid" local variable.(¢À‘ıÿÿÿÿ8šİÕúÄ.
+Xsquid:S1854"7Remove this useless assignment to local variable "id2".(ß¢Üñùÿÿÿÿ8øüŞúÄ.
+Psquid:S1481"/Remove this unused "simpleUUID" local variable.(Ú×©µşÿÿÿÿ8šİÕúÄ.
+Csquid:S1481"'Remove this unused "id" local variable.(…¾ë»8øüŞúÄ.
+Hsquid:S1481"'Remove this unused "id" local variable.(†üôûüÿÿÿÿ8ÎˆæúÄ.
+Rsquid:S1854"6Remove this useless assignment to local variable "id".(…¾ë»8øüŞúÄ.
+_squid:S1854">Remove this useless assignment to local variable "simpleUUID".(Ú×©µşÿÿÿÿ8šİÕúÄ.
+Ysquid:S1854"8Remove this useless assignment to local variable "uuid".(¢À‘ıÿÿÿÿ8šİÕúÄ.

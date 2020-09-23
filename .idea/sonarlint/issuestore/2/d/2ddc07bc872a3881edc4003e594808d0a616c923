@@ -1,0 +1,12 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö8ÄÇ‡úÄ.
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÄÇ‡úÄ.
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÄÇ‡úÄ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ŸÅ®8ÄÇ‡úÄ.
+Ssquid:S1854"7Remove this useless assignment to local variable "map".(íè‹õ8ÄÇ‡úÄ.
+Zsquid:S1854"9Remove this useless assignment to local variable "clone".(ÊÚºôıÿÿÿÿ8ÄÇ‡úÄ.
+Vsquid:S1854":Remove this useless assignment to local variable "cloneB".(ÁŞíí8ÄÇ‡úÄ.
+Gsquid:S1481"+Remove this unused "cloneB" local variable.(ÁŞíí8ÄÇ‡úÄ.
+Ksquid:S1481"*Remove this unused "clone" local variable.(ÊÚºôıÿÿÿÿ8ÄÇ‡úÄ.
+Dsquid:S1481"(Remove this unused "map" local variable.(íè‹õ8ÄÇ‡úÄ.

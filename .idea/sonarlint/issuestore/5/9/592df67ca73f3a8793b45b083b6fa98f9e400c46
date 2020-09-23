@@ -1,0 +1,8 @@
+
+\squid:S1854";Remove this useless assignment to local variable "rainbow".(ã––ïúÿÿÿÿ8ŒÈ¹ÏÄ.
+Ysquid:S1854"=Remove this useless assignment to local variable "startEnd2".(î³±©8ƒ±¦ÏÄ.
+^squid:S1854"=Remove this useless assignment to local variable "totalPage".(ÿá¿ûÿÿÿÿ8İÑ³ÏÄ.
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+Msquid:S1481",Remove this unused "rainbow" local variable.(ã––ïúÿÿÿÿ8ŒÈ¹ÏÄ.
+Jsquid:S1481".Remove this unused "startEnd2" local variable.(î³±©8ƒ±¦ÏÄ.
+Osquid:S1481".Remove this unused "totalPage" local variable.(ÿá¿ûÿÿÿÿ8İÑ³ÏÄ.

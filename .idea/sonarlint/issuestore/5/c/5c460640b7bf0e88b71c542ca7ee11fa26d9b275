@@ -1,0 +1,12 @@
+
+Nsquid:S1481"-Remove this unused "copySize" local variable.(ÕüÔıÿÿÿÿ8ú™ËóÁ.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì°¶8ú™ËóÁ.
+zsquid:S1192"^Define a constant instead of duplicating this literal "/Users/lixinyu/lxy/test/a.txt" 6 times.(ğµ“8–ÎÅøÁ.
+]squid:S1854"<Remove this useless assignment to local variable "copySize".(ÕüÔıÿÿÿÿ8ú™ËóÁ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ŸïóøÁ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ºğêÌ8ú™ËóÁ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Âƒíùùÿÿÿÿ8ÙçùÁ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(øè×Œşÿÿÿÿ8ÙçùÁ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8éİ¸øÁ.

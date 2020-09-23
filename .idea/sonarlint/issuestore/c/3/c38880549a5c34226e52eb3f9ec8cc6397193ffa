@@ -1,0 +1,19 @@
+
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(°ÒÅ¼ýÿÿÿÿ8›ßÔ Æ.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ÿ¢§±ýÿÿÿÿ8‰ŠØ Æ.
+Psquid:S1481"-Remove this unused "buildUrl" local variable.(¯Ëö—üÿÿÿÿ8Ô‹Ï Æ.
+[squid:S1854"=Remove this useless assignment to local variable "buildUrl3".(Ì‡ø°8é‘Ò Æ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(úÁ¦«8®²Õ Æ.
+_squid:S1854"<Remove this useless assignment to local variable "buildUrl".(¯Ëö—üÿÿÿÿ8Ô‹Ï Æ.
+`squid:S1854"=Remove this useless assignment to local variable "buildUrl2".(ì‚×‡ûÿÿÿÿ8Ž„Ð Æ.
+qsquid:S1192"NDefine a constant instead of duplicating this literal "www.hutool.cn" 3 times.(¯Ëö—üÿÿÿÿ8Ž„Ð Æ.
+Lsquid:S1481".Remove this unused "buildUrl3" local variable.(Ì‡ø°8é‘Ò Æ.
+Psquid:S1481/"-Remove this unused "builder2" local variable.(þúÞÿÿÿÿÿ8ŽÜÛ Æ.
+Qsquid:S1481".Remove this unused "buildUrl2" local variable.(ì‚×‡ûÿÿÿÿ8Ž„Ð Æ.
+_squid:S1854/"<Remove this useless assignment to local variable "builder2".(þúÞÿÿÿÿÿ8ŽÜÛ Æ.
+¯%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.net.MalformedURLException', as it cannot be thrown from method's body.(“íÛÃ8ð¶Ü Æ.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ï×’ûÿÿÿÿ8ð¶Ü Æ.

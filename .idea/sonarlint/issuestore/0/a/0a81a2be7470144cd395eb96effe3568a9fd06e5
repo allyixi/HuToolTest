@@ -1,0 +1,6 @@
+
+Jsquid:S1481 ",Remove this unused "compare" local variable.(…ñ×€8“áÿÆ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+Ysquid:S1854 ";Remove this useless assignment to local variable "compare".(…ñ×€8“áÿÆ.
+_squid:S1854""<Remove this useless assignment to local variable "compare2".(½Ş¹²ÿÿÿÿÿ8È€ŸÆ.
+Psquid:S1481""-Remove this unused "compare2" local variable.(½Ş¹²ÿÿÿÿÿ8È€ŸÆ.

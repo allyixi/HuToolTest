@@ -1,0 +1,9 @@
+
+Ksquid:S1604"(Make this anonymous inner class a lambda(™×·Éşÿÿÿÿ8ïÛªœÅ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
+Vsquid:S1854 "8Remove this useless assignment to local variable "list".(Êìò¹8Ø“¡œÅ.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(£áşıÿÿÿÿ8Ø“¡œÅ.
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÀÜ¨8Ø“¡œÅ.
+Gsquid:S1481 ")Remove this unused "list" local variable.(Êìò¹8Ø“¡œÅ.
+\squid:S1854"9Remove this useless assignment to local variable "queue".(£áşıÿÿÿÿ8Ø“¡œÅ.

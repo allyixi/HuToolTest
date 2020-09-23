@@ -1,0 +1,4 @@
+
+Wsquid:S1854"9Remove this useless assignment to local variable "split".(ñ¥Ô8ìîÏÆ.
+Hsquid:S1481"*Remove this unused "split" local variable.(ñ¥Ô8ìîÏÆ.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö

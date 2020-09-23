@@ -1,0 +1,11 @@
+
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ýü†ê8¼ääšÅ.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Îƒ„J8æã–šÅ.
+Xsquid:S1854"7Remove this useless assignment to local variable "str".(¾À“§üÿÿÿÿ8òÆ÷—Å.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýü†ê8¼ääšÅ.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(âùÏ=8Ìˆõ—Å.
+Isquid:S1481"(Remove this unused "str" local variable.(¾À“§üÿÿÿÿ8òÆ÷—Å.

@@ -1,0 +1,7 @@
+
+psquid:S1192"ODefine a constant instead of duplicating this literal "d:/bbb/ccc.zip" 3 times.(ˆ¼öıÿÿÿÿ8ÀúúÄ.
+Fsquid:S1481"*Remove this unused "unzip" local variable.(ºµ†ù8îúûúÄ.
+psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+csquid:S1192"GDefine a constant instead of duplicating this literal "d:/aaa" 3 times.(ÿ¦ÿ¦8‘«õúÄ.
+Usquid:S1854"9Remove this useless assignment to local variable "unzip".(ºµ†ù8îúûúÄ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßó™Ø8»¾…ûÄ.

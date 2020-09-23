@@ -1,0 +1,5 @@
+
+Wsquid:S1854";Remove this useless assignment to local variable "isEmail".(ùÄ²´8Šü”Å.
+gsquid:CallToDeprecatedMethod"5Remove this use of "isMactchRegex"; it is deprecated.(³¿³ãÿÿÿÿÿ8‰³—”Å.
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦ÒúÍıÿÿÿÿ
+Hsquid:S1481",Remove this unused "isEmail" local variable.(ùÄ²´8Šü”Å.
